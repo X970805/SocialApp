@@ -1,7 +1,9 @@
-package code.xp.social_app;
+package code.xp.social_app.view.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import code.xp.social_app.R;
 
 public class MainActivity extends AppCompatActivity {
 
