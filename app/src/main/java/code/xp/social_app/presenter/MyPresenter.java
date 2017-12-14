@@ -5,5 +5,5 @@ package code.xp.social_app.presenter;
  */
 
 public class MyPresenter {
-    //
+
 }
