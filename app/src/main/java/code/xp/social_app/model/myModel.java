@@ -5,4 +5,5 @@ package code.xp.social_app.model;
  */
 
 public class myModel {
+    //demo from erin
 }
