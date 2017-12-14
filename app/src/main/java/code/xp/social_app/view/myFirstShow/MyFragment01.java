@@ -13,11 +13,12 @@ import code.xp.social_app.R;
  * Created by 徐宏福 on 2017/12/13.
  */
 
-public class myFragment02 extends Fragment {
+public class MyFragment01 extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = View.inflate(getContext(), R.layout.shoufragment02, null);
+        View view = View.inflate(getContext(), R.layout.shoufragment01, null);
+
         return view;
 
     }
